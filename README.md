@@ -170,3 +170,7 @@ checks on every push (`.github/workflows/ci.yml`).
 - **Authentication is out of scope** for this demo; in production the API would sit behind login with
   role-based access (front desk vs. manager).
 - Prices are per room per night; seasonal rates and taxes would be the next feature.
+
+## License
+
+[MIT](LICENSE) © 2026 Abror Kushshiyev
